@@ -38,5 +38,5 @@ msbuild.wrn
 # Visual Studio 2015
 .vs/
 
-# Pastas Automações
+# Pastas
 /node_modules
